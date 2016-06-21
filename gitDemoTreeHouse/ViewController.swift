@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let userName: String = "Dummy User"
 
     override func viewDidLoad() {
         super.viewDidLoad()
